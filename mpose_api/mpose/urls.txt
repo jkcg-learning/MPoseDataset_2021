@@ -1,0 +1,2 @@
+https://zenodo.org/record/5803076/files/openpose.zip
+https://zenodo.org/record/5803076/files/posenet.zip
